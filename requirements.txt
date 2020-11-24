@@ -1,1 +1,2 @@
 PyJWT==1.7.1
+environs=9.2.0
