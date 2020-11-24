@@ -7,7 +7,6 @@ import logging
 from environs import Env
 from django.http import HttpResponse
 from django.utils.deprecation import MiddlewareMixin
-from api import config
 
 # Initialize logger
 logger = logging.getLogger(__name__)
